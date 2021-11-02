@@ -16,9 +16,9 @@
 
 # Links
 ## Heroku links
-main branch server: https://basic-express-server0.herokuapp.com/
+main branch server: [main branch](https://basic-express-server0.herokuapp.com)
 
 ***
 
 # Pull requests
-dev to main pull request: https://github.com/EmadIdris/basic-express-server/pull/1
+dev to main pull request: [pull request](https://github.com/EmadIdris/basic-express-server/pull/1)
