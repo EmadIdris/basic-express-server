@@ -12,7 +12,7 @@
 
  # UML
  
- ![](./basic-express-server.png)
+ ![UML](./basic-express-server.png)
 
 # Links
 ## Heroku links
